@@ -1,5 +1,5 @@
-# BehavioralPatterns
-How many patterns have you used ? 
+# How many BehavioralPatterns have you used ? 
+
 
 Behavioral patterns in software design are a category of design patterns that focus on the interaction and communication between objects and classes. These patterns capture the behavior and communication patterns among objects, providing solutions for organizing, managing, and coordinating their interactions. Here are some commonly recognized behavioral patterns:
 
